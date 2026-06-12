@@ -14,7 +14,7 @@ read the plan fully, honor STOP conditions, update your row when done.
 | 002 | Wire Devin CLI into Orca managed agent hooks | P1 | L | — | DONE |
 | 003 | Devin sleeping-agent resume | P2 | M | 002 (recommended) | DONE |
 | 004 | Devin UI polish (title, search, completion) | P3 | S | 002 (recommended) | DONE |
-| 005 | Devin AI Vault integration | P2 | M | Phase A done | TODO |
+| 005 | Devin AI Vault integration | P2 | M | Phase A done | DONE |
 
 ## Dependency notes
 
