@@ -4162,7 +4162,20 @@
           "7d26ccabe8": "ダーク",
           "fb0e0b4453": "システム",
           "932ff1fbff": "テーマ",
-          "0f28e7b30c": "アプリ ウィンドウで Orca がどのように見えるかを選択します。"
+          "0f28e7b30c": "アプリ ウィンドウで Orca がどのように見えるかを選択します。",
+          "leftSidebarAppearance": {
+            "title": "Left Sidebar Appearance",
+            "description": "Make the left sidebar match your terminal, stay default, or use a tint.",
+            "rowDescription": "Make the left sidebar match your terminal, stay default, or use a tint.",
+            "default": "Default",
+            "matchTerminal": "Match Terminal",
+            "softContrast": "Soft Contrast",
+            "tinted": "Tinted",
+            "tintColor": "Sidebar Tint",
+            "tintColorDescription": "The color mixed into the left sidebar surface.",
+            "tintOpacity": "Tint Strength",
+            "tintOpacityDescription": "Controls how strongly the tint is mixed into the sidebar."
+          }
         },
         "AutoRenameBranchFromWorkSetting": {
           "1626524572": "Nautilus",
@@ -6200,6 +6213,10 @@
               "locale": "ロケール",
               "i18n": "i18n",
               "translation": "翻訳"
+            },
+            "leftSidebarAppearance": {
+              "title": "Left Sidebar Appearance",
+              "description": "Make the left sidebar match your terminal, stay default, or use a tint."
             }
           }
         },

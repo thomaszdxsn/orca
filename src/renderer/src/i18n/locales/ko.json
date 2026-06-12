@@ -4162,7 +4162,20 @@
           "7d26ccabe8": "다크",
           "fb0e0b4453": "체계",
           "932ff1fbff": "주제",
-          "0f28e7b30c": "Orca가 앱 창에 표시되는 방식을 선택합니다."
+          "0f28e7b30c": "Orca가 앱 창에 표시되는 방식을 선택합니다.",
+          "leftSidebarAppearance": {
+            "title": "Left Sidebar Appearance",
+            "description": "Make the left sidebar match your terminal, stay default, or use a tint.",
+            "rowDescription": "Make the left sidebar match your terminal, stay default, or use a tint.",
+            "default": "Default",
+            "matchTerminal": "Match Terminal",
+            "softContrast": "Soft Contrast",
+            "tinted": "Tinted",
+            "tintColor": "Sidebar Tint",
+            "tintColorDescription": "The color mixed into the left sidebar surface.",
+            "tintOpacity": "Tint Strength",
+            "tintOpacityDescription": "Controls how strongly the tint is mixed into the sidebar."
+          }
         },
         "AutoRenameBranchFromWorkSetting": {
           "1626524572": "Nautilus",
@@ -6164,6 +6177,10 @@
               "locale": "로케일",
               "i18n": "i18n",
               "translation": "번역"
+            },
+            "leftSidebarAppearance": {
+              "title": "Left Sidebar Appearance",
+              "description": "Make the left sidebar match your terminal, stay default, or use a tint."
             }
           }
         },
