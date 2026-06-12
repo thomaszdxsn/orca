@@ -12,8 +12,8 @@ read the plan fully, honor STOP conditions, update your row when done.
 |------|-------|----------|--------|------------|--------|
 | 001 | Add Devin CLI as a first-class supported TUI agent | P1 | M | — | DONE |
 | 002 | Wire Devin CLI into Orca managed agent hooks | P1 | L | — | DONE |
-| 003 | Devin sleeping-agent resume | P2 | M | 002 (recommended) | TODO |
-| 004 | Devin UI polish (title, search, completion) | P3 | S | 002 (recommended) | TODO |
+| 003 | Devin sleeping-agent resume | P2 | M | 002 (recommended) | DONE |
+| 004 | Devin UI polish (title, search, completion) | P3 | S | 002 (recommended) | DONE |
 | 005 | Devin AI Vault integration | P2 | M | Phase A done | TODO |
 
 ## Dependency notes
